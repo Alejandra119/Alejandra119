@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, soy Alejandra Lizeth Salas Talavera👋
+
+## Technologías :fire:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Competitive Programming.
+- Machine Learning
 
 <!--
 **Alejandra119/Alejandra119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
