@@ -1,6 +1,6 @@
 ### Hola, soy Alejandra Lizeth Salas Talavera👋
 
-## Technologías :fire:
+## Tecnologías dominadas :fire:
 - Data Analysis with **Python**.
 - Data Science.
 - Python.
