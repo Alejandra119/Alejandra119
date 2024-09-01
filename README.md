@@ -12,7 +12,7 @@ I'm a self-taught passionate Data Scientist from Peru and a versatilist and easi
 ### :book: More About Me:
 - 🎓 &nbsp; Graduated with Honours on Economics at the Saint August University of Arequipa on December 2021
 - 🎓 &nbsp; Graduated as Data Scientist on October 2023
-- 🔭 &nbsp; I’m currently working as Revenue Data Analyst.
+- 🔭 &nbsp; I’m currently working as Pricing Data Analyst.
 - 🌱 &nbsp; I’m currently learning Airflow. 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alejandra-lizeth-salas-talavera/)
